@@ -8,8 +8,8 @@
 
 int main() {
 
-  printf("Yohannes Hailu!\n");
-  printf("Computer Science")
+  printf("My name is Yohannes Hailu!!\n");
+  printf("My major is Computer Science and Math!\n");
 
 
   return 0;
