@@ -10,7 +10,8 @@ int main() {
 
   printf("My name is Yohannes Hailu!!\n");
   printf("My major is Computer Science and Math!\n");
-
+printf("My name is Mihir Lochan Maruvada!\n);
+printf("I'm majoring in Computer Science\n);
 
   return 0;
 }
